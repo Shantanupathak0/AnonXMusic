@@ -299,6 +299,7 @@ class YouTubeAPI:
                 "geo_bypass": True,
                 "nocheckcertificate": True,
                 "quiet": True,
+                "cookiesfile": "cookies.txt"
                 "no_warnings": True,
                 "prefer_ffmpeg": True,
                 "postprocessors": [
